@@ -1,17 +1,17 @@
 # NYC Motor Vehicle Collision Fatality Analysis
 
-Academic team project completed for CIS 3920 Data Mining for Business Analytics at Baruch College in Spring 2026.
+Academic team analysis completed for CIS 3920 Data Mining for Business Analytics at Baruch College in Spring 2026.
 
-## Project Overview
+## Overview
 
-This project examined whether Ford vehicle involvement was independently associated with fatal crash outcomes after accounting for driver, vehicle, and time related factors in NYC motor vehicle collision data.
+This analysis examined whether Ford vehicle involvement was independently associated with fatal crash outcomes after accounting for driver, vehicle, and time related factors in NYC motor vehicle collision data.
 
 I worked as part of a four person team with Shazrim Farin, Ethan Ma, and Geovanni Ramos.
 
-## Actual Project Materials
+## Materials
 
 * [`team_project_details.md`](team_project_details.md) documents the final research question, dataset, model, findings, and team attribution.
-* [`results/model_output.txt`](results/model_output.txt) contains the actual statsmodels logistic regression output from the project.
+* [`results/model_output.txt`](results/model_output.txt) contains the statsmodels logistic regression output from the analysis.
 
 ## Dataset
 
@@ -29,6 +29,6 @@ Ford involvement was not statistically significant at the 0.05 level after contr
 
 Large vehicle involvement was positively associated with fatal crash risk, while rush hour crashes were negatively associated with fatal outcomes in the fitted model.
 
-## Project Context
+## Team Context
 
-This was a four person academic team project. The repository documents the analysis without presenting the full team project as individual work.
+This was completed by a four person academic team. The repository documents the analysis without presenting the full team work as my individual contribution.
