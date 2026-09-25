@@ -32,3 +32,7 @@ Large vehicle involvement was positively associated with fatal crash risk, while
 ## Team Context
 
 This was completed by a four person academic team. The repository documents the analysis without presenting the full team work as my individual contribution.
+
+## How to Explore
+
+This repository documents the analysis and its results. Start with `team_project_details.md` for the research question, dataset, and findings, then see `results/model_output.txt` for the full statsmodels logistic regression output, including descriptive statistics and model coefficients. The analysis used Python, pandas, and statsmodels.
