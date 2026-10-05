@@ -15,7 +15,7 @@ I worked as part of a four person team with Shazrim Farin, Ethan Ma, and Geovann
 
 ## Dataset
 
-The dataset in `data/Motor_Vehicle_Collisions_-_Crashes.csv` was provided by the professor.
+The dataset in `data/2-Motor_Vehicle_Collisions_-_Crashes.csv` was provided by the professor.
 
 The analysis started with 89,102 collision records across 27 columns. After cleaning and preparing the modeling data, the final dataset contained 70,272 observations.
 
