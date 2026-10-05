@@ -24,7 +24,7 @@ The main outcome was `IS_FATAL`.
 
 The key variable of interest was `IS_FORD`.
 
-The adjusted logistic regression also included:
+The adjusted binary logistic regression also included:
 
 * `IS_RECKLESS`
 * `IS_LICENSED`
